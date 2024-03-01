@@ -1,0 +1,703 @@
+"","Año","Región","Subtipo.de.delito","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic","Total"
+"1",2015,"No especificado","Abuso sexual",3,2,7,1,2,0,0,1,2,7,6,5,36
+"2",2015,"No especificado","Acoso sexual",0,0,0,0,0,0,0,0,3,0,1,0,4
+"3",2015,"No especificado","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"4",2015,"No especificado","Hostigamiento sexual",0,0,0,0,0,0,0,0,1,0,0,0,1
+"5",2015,"No especificado","Violación",1,1,0,0,1,0,0,0,1,1,2,3,10
+"6",2015,"No especificado","Violencia familiar",1,5,0,2,2,0,4,11,32,30,51,23,161
+"7",2015,"Región Altos Norte","Abuso sexual",4,6,4,8,2,3,7,2,2,3,2,1,44
+"8",2015,"Región Altos Norte","Acoso sexual",2,1,3,0,0,1,0,3,1,0,0,0,11
+"9",2015,"Región Altos Norte","Feminicidio",0,1,0,0,0,0,0,1,0,0,0,0,2
+"10",2015,"Región Altos Norte","Hostigamiento sexual",0,0,0,1,1,0,0,0,0,0,0,0,2
+"11",2015,"Región Altos Norte","Violación",0,1,1,2,0,1,0,1,2,1,0,2,11
+"12",2015,"Región Altos Norte","Violencia familiar",3,2,5,7,6,7,13,7,9,25,19,18,121
+"13",2015,"Región Altos Sur","Abuso sexual",6,3,5,7,7,4,3,3,7,4,12,4,65
+"14",2015,"Región Altos Sur","Acoso sexual",0,1,1,0,0,0,0,0,0,0,0,0,2
+"15",2015,"Región Altos Sur","Feminicidio",0,0,0,0,0,0,0,1,1,0,0,0,2
+"16",2015,"Región Altos Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"17",2015,"Región Altos Sur","Violación",0,1,2,0,0,2,2,3,1,0,1,0,12
+"18",2015,"Región Altos Sur","Violencia familiar",14,7,20,11,18,13,35,25,19,19,20,26,227
+"19",2015,"Región Centro","Abuso sexual",61,64,79,69,59,71,71,88,78,126,140,115,1021
+"20",2015,"Región Centro","Acoso sexual",9,5,2,4,4,4,1,3,13,23,17,6,91
+"21",2015,"Región Centro","Feminicidio",3,3,5,1,0,3,4,3,2,5,4,5,38
+"22",2015,"Región Centro","Hostigamiento sexual",0,1,1,0,0,3,2,1,1,5,5,0,19
+"23",2015,"Región Centro","Violación",24,16,17,23,26,21,23,22,22,28,18,17,257
+"24",2015,"Región Centro","Violencia familiar",246,294,347,330,362,469,446,446,787,1181,1113,1008,7029
+"25",2015,"Región Ciénega","Abuso sexual",6,1,2,9,2,6,3,2,5,3,2,5,46
+"26",2015,"Región Ciénega","Acoso sexual",0,0,0,0,0,0,1,0,0,0,0,1,2
+"27",2015,"Región Ciénega","Feminicidio",1,0,0,0,1,0,0,0,0,0,1,0,3
+"28",2015,"Región Ciénega","Hostigamiento sexual",0,0,0,0,0,0,0,0,1,0,0,0,1
+"29",2015,"Región Ciénega","Violación",2,1,0,0,1,0,0,1,2,0,1,0,8
+"30",2015,"Región Ciénega","Violencia familiar",11,2,8,8,3,7,10,8,1,6,4,6,74
+"31",2015,"Región Costa Sur","Abuso sexual",2,5,0,4,3,5,2,7,5,5,2,3,43
+"32",2015,"Región Costa Sur","Acoso sexual",0,0,0,0,0,1,0,0,0,0,0,0,1
+"33",2015,"Región Costa Sur","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"34",2015,"Región Costa Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"35",2015,"Región Costa Sur","Violación",0,0,1,1,0,0,0,1,0,0,1,0,4
+"36",2015,"Región Costa Sur","Violencia familiar",3,4,4,6,9,13,2,4,2,10,5,8,70
+"37",2015,"Región Costa-Sierra Occidental","Abuso sexual",11,7,15,8,12,11,8,8,10,11,4,10,115
+"38",2015,"Región Costa-Sierra Occidental","Acoso sexual",1,1,0,0,1,0,1,0,0,1,1,2,8
+"39",2015,"Región Costa-Sierra Occidental","Feminicidio",0,0,1,0,0,0,0,0,0,0,0,0,1
+"40",2015,"Región Costa-Sierra Occidental","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"41",2015,"Región Costa-Sierra Occidental","Violación",0,2,0,4,3,1,5,3,4,2,3,1,28
+"42",2015,"Región Costa-Sierra Occidental","Violencia familiar",20,20,20,21,17,17,29,26,30,37,34,32,303
+"43",2015,"Región Lagunas","Abuso sexual",3,0,1,1,2,5,2,6,1,4,2,0,27
+"44",2015,"Región Lagunas","Acoso sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"45",2015,"Región Lagunas","Feminicidio",0,0,0,0,1,0,0,0,1,1,1,0,4
+"46",2015,"Región Lagunas","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"47",2015,"Región Lagunas","Violación",1,0,0,3,0,0,0,1,1,0,0,1,7
+"48",2015,"Región Lagunas","Violencia familiar",6,6,2,7,7,4,9,9,7,5,5,7,74
+"49",2015,"Región Norte","Abuso sexual",2,0,1,0,0,0,1,0,0,1,2,1,8
+"50",2015,"Región Norte","Acoso sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"51",2015,"Región Norte","Feminicidio",0,0,1,0,0,0,0,0,0,1,0,0,2
+"52",2015,"Región Norte","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"53",2015,"Región Norte","Violación",0,0,1,1,0,0,0,0,1,1,1,0,5
+"54",2015,"Región Norte","Violencia familiar",0,1,0,1,1,3,2,2,6,0,3,1,20
+"55",2015,"Región Sierra de Amula","Abuso sexual",6,4,1,1,1,3,2,1,1,3,1,3,27
+"56",2015,"Región Sierra de Amula","Acoso sexual",0,0,1,1,0,1,0,1,0,0,0,0,4
+"57",2015,"Región Sierra de Amula","Feminicidio",0,0,0,0,0,0,1,0,0,0,0,0,1
+"58",2015,"Región Sierra de Amula","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"59",2015,"Región Sierra de Amula","Violación",0,1,0,0,2,2,0,0,1,0,0,1,7
+"60",2015,"Región Sierra de Amula","Violencia familiar",8,9,14,11,7,12,16,12,7,11,6,12,125
+"61",2015,"Región Sur","Abuso sexual",2,4,5,7,5,10,5,4,4,6,1,4,57
+"62",2015,"Región Sur","Acoso sexual",1,0,0,0,0,0,0,0,0,2,1,0,4
+"63",2015,"Región Sur","Feminicidio",0,0,1,0,0,0,0,0,0,1,0,0,2
+"64",2015,"Región Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"65",2015,"Región Sur","Violación",1,1,0,1,1,0,0,1,0,1,1,3,10
+"66",2015,"Región Sur","Violencia familiar",20,5,15,13,12,22,12,8,3,2,10,7,129
+"67",2015,"Región Sureste","Abuso sexual",0,1,3,0,5,4,3,1,3,4,3,0,27
+"68",2015,"Región Sureste","Acoso sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"69",2015,"Región Sureste","Feminicidio",0,0,0,1,0,2,0,0,0,0,0,0,3
+"70",2015,"Región Sureste","Hostigamiento sexual",0,0,0,0,0,1,0,0,0,0,0,0,1
+"71",2015,"Región Sureste","Violación",0,2,0,0,0,0,0,0,0,1,1,0,4
+"72",2015,"Región Sureste","Violencia familiar",2,0,4,1,5,4,1,2,2,4,7,1,33
+"73",2015,"Región Valles","Abuso sexual",6,4,2,7,5,3,8,4,7,3,3,4,56
+"74",2015,"Región Valles","Acoso sexual",1,0,0,1,0,0,0,0,0,0,1,0,3
+"75",2015,"Región Valles","Feminicidio",0,1,0,0,0,0,0,0,2,0,1,0,4
+"76",2015,"Región Valles","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"77",2015,"Región Valles","Violación",1,1,1,0,1,0,1,1,2,0,0,2,10
+"78",2015,"Región Valles","Violencia familiar",11,7,10,13,13,14,16,14,16,31,20,12,177
+"79",2016,"No especificado","Abuso sexual",7,4,8,30,10,14,12,7,12,31,4,10,149
+"80",2016,"No especificado","Acoso sexual",0,0,0,3,1,2,0,0,2,4,0,0,12
+"81",2016,"No especificado","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"82",2016,"No especificado","Hostigamiento sexual",0,0,0,0,0,1,3,3,4,0,1,1,13
+"83",2016,"No especificado","Violación",0,0,0,1,1,6,5,12,13,8,7,4,57
+"84",2016,"No especificado","Violencia familiar",3,13,15,23,18,148,70,224,184,76,68,44,886
+"85",2016,"Región Altos Norte","Abuso sexual",3,2,1,5,9,8,2,5,9,3,6,2,55
+"86",2016,"Región Altos Norte","Acoso sexual",0,2,0,1,2,0,0,0,0,0,0,0,5
+"87",2016,"Región Altos Norte","Feminicidio",0,0,0,0,0,0,0,1,0,2,0,0,3
+"88",2016,"Región Altos Norte","Hostigamiento sexual",0,0,0,0,1,0,0,0,0,0,0,0,1
+"89",2016,"Región Altos Norte","Violación",1,1,0,2,1,0,0,0,1,1,2,1,10
+"90",2016,"Región Altos Norte","Violencia familiar",26,16,16,15,29,24,20,45,38,22,23,20,294
+"91",2016,"Región Altos Sur","Abuso sexual",3,3,2,8,9,4,6,5,6,7,8,7,68
+"92",2016,"Región Altos Sur","Acoso sexual",0,0,0,0,0,0,0,1,0,0,0,0,1
+"93",2016,"Región Altos Sur","Feminicidio",0,0,0,0,1,0,0,1,0,0,0,0,2
+"94",2016,"Región Altos Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"95",2016,"Región Altos Sur","Violación",0,0,1,1,0,1,0,1,1,1,0,0,6
+"96",2016,"Región Altos Sur","Violencia familiar",18,12,15,18,21,31,29,32,21,17,18,15,247
+"97",2016,"Región Centro","Abuso sexual",104,103,124,150,150,140,98,117,130,186,123,194,1619
+"98",2016,"Región Centro","Acoso sexual",28,17,19,19,17,2,1,0,5,26,4,11,149
+"99",2016,"Región Centro","Feminicidio",2,3,4,5,1,1,0,1,2,0,1,1,21
+"100",2016,"Región Centro","Hostigamiento sexual",1,0,0,0,0,19,14,16,12,19,7,10,98
+"101",2016,"Región Centro","Violación",16,23,31,33,34,20,28,14,23,25,24,36,307
+"102",2016,"Región Centro","Violencia familiar",808,805,857,1140,1168,604,496,487,422,360,594,840,8581
+"103",2016,"Región Ciénega","Abuso sexual",6,2,5,4,7,5,4,6,8,5,1,6,59
+"104",2016,"Región Ciénega","Acoso sexual",2,0,0,0,0,0,0,1,0,0,1,0,4
+"105",2016,"Región Ciénega","Feminicidio",0,0,1,0,0,0,1,0,2,0,0,2,6
+"106",2016,"Región Ciénega","Hostigamiento sexual",0,0,1,0,1,2,0,0,0,0,0,0,4
+"107",2016,"Región Ciénega","Violación",1,0,0,0,1,0,1,0,0,1,0,4,8
+"108",2016,"Región Ciénega","Violencia familiar",6,12,7,10,12,9,13,7,13,17,16,12,134
+"109",2016,"Región Costa Sur","Abuso sexual",4,2,4,6,3,4,2,2,3,4,6,5,45
+"110",2016,"Región Costa Sur","Acoso sexual",0,0,1,0,0,0,0,0,0,0,0,0,1
+"111",2016,"Región Costa Sur","Feminicidio",0,0,0,0,1,0,1,0,0,0,0,0,2
+"112",2016,"Región Costa Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"113",2016,"Región Costa Sur","Violación",0,0,0,0,0,1,0,0,1,0,0,0,2
+"114",2016,"Región Costa Sur","Violencia familiar",5,4,5,2,8,8,10,10,11,7,3,4,77
+"115",2016,"Región Costa-Sierra Occidental","Abuso sexual",8,10,9,11,9,7,6,6,8,7,7,8,96
+"116",2016,"Región Costa-Sierra Occidental","Acoso sexual",0,2,3,1,0,0,1,4,1,2,1,0,15
+"117",2016,"Región Costa-Sierra Occidental","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"118",2016,"Región Costa-Sierra Occidental","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"119",2016,"Región Costa-Sierra Occidental","Violación",3,2,2,3,13,5,4,0,1,0,1,2,36
+"120",2016,"Región Costa-Sierra Occidental","Violencia familiar",30,17,36,34,46,43,36,40,32,31,30,28,403
+"121",2016,"Región Lagunas","Abuso sexual",6,1,1,3,2,7,3,3,2,4,3,5,40
+"122",2016,"Región Lagunas","Acoso sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"123",2016,"Región Lagunas","Feminicidio",0,1,0,0,0,1,0,0,0,0,0,1,3
+"124",2016,"Región Lagunas","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,1,1
+"125",2016,"Región Lagunas","Violación",1,0,0,1,1,1,1,1,0,0,0,1,7
+"126",2016,"Región Lagunas","Violencia familiar",7,5,4,8,19,11,11,10,8,14,12,6,115
+"127",2016,"Región Norte","Abuso sexual",0,3,0,1,5,1,1,4,0,1,2,1,19
+"128",2016,"Región Norte","Acoso sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"129",2016,"Región Norte","Feminicidio",0,0,0,0,0,0,0,0,0,0,1,0,1
+"130",2016,"Región Norte","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"131",2016,"Región Norte","Violación",0,1,0,0,0,3,0,1,0,0,0,0,5
+"132",2016,"Región Norte","Violencia familiar",3,1,2,1,2,3,6,4,6,3,3,1,35
+"133",2016,"Región Sierra de Amula","Abuso sexual",0,2,4,2,9,6,2,6,2,9,1,3,46
+"134",2016,"Región Sierra de Amula","Acoso sexual",0,0,0,0,1,1,0,0,0,0,1,2,5
+"135",2016,"Región Sierra de Amula","Feminicidio",0,1,0,0,0,0,0,0,0,0,0,0,1
+"136",2016,"Región Sierra de Amula","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"137",2016,"Región Sierra de Amula","Violación",1,2,1,1,2,0,0,1,2,0,0,1,11
+"138",2016,"Región Sierra de Amula","Violencia familiar",13,9,13,19,14,13,16,14,10,13,26,13,173
+"139",2016,"Región Sur","Abuso sexual",1,4,6,6,4,4,6,6,4,7,5,2,55
+"140",2016,"Región Sur","Acoso sexual",0,0,0,0,0,0,0,0,0,1,0,0,1
+"141",2016,"Región Sur","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,1,1
+"142",2016,"Región Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,1,0,0,1
+"143",2016,"Región Sur","Violación",2,2,0,0,0,1,0,2,1,2,2,1,13
+"144",2016,"Región Sur","Violencia familiar",12,10,10,16,27,17,15,9,12,15,9,17,169
+"145",2016,"Región Sureste","Abuso sexual",4,3,1,3,4,3,2,2,3,1,2,3,31
+"146",2016,"Región Sureste","Acoso sexual",0,0,0,0,1,0,0,0,0,0,0,1,2
+"147",2016,"Región Sureste","Feminicidio",0,0,0,0,0,0,2,0,1,1,0,0,4
+"148",2016,"Región Sureste","Hostigamiento sexual",0,0,0,0,0,0,0,0,1,0,0,0,1
+"149",2016,"Región Sureste","Violación",2,0,1,2,1,4,1,0,2,0,2,0,15
+"150",2016,"Región Sureste","Violencia familiar",0,3,4,1,3,1,7,3,14,7,5,7,55
+"151",2016,"Región Valles","Abuso sexual",1,1,3,9,5,5,2,10,5,7,4,11,63
+"152",2016,"Región Valles","Acoso sexual",0,0,1,2,1,0,0,0,0,0,0,0,4
+"153",2016,"Región Valles","Feminicidio",0,2,1,1,0,0,0,0,0,0,0,0,4
+"154",2016,"Región Valles","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"155",2016,"Región Valles","Violación",1,0,1,1,2,2,0,2,1,0,3,2,15
+"156",2016,"Región Valles","Violencia familiar",17,28,32,25,20,24,16,15,30,20,21,14,262
+"157",2017,"No especificado","Abuso sexual",4,2,5,7,7,7,12,12,8,5,9,3,81
+"158",2017,"No especificado","Acoso sexual",0,0,2,0,6,4,1,2,0,0,0,0,15
+"159",2017,"No especificado","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"160",2017,"No especificado","Hostigamiento sexual",0,2,2,1,0,1,0,0,0,0,0,2,8
+"161",2017,"No especificado","Violación",1,0,0,3,7,3,5,3,2,1,1,1,27
+"162",2017,"No especificado","Violencia familiar",3,13,16,19,40,123,23,13,9,10,6,7,282
+"163",2017,"Región Altos Norte","Abuso sexual",5,0,6,3,7,4,7,9,6,6,4,3,60
+"164",2017,"Región Altos Norte","Acoso sexual",0,0,0,0,0,1,0,0,0,0,0,0,1
+"165",2017,"Región Altos Norte","Feminicidio",0,0,0,0,0,0,0,0,0,0,1,0,1
+"166",2017,"Región Altos Norte","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"167",2017,"Región Altos Norte","Violación",0,0,0,0,1,1,0,1,1,1,1,0,6
+"168",2017,"Región Altos Norte","Violencia familiar",28,14,22,25,23,21,13,18,17,12,12,17,222
+"169",2017,"Región Altos Sur","Abuso sexual",6,2,3,5,8,9,10,6,5,7,4,8,73
+"170",2017,"Región Altos Sur","Acoso sexual",0,0,0,0,0,0,1,0,1,0,1,0,3
+"171",2017,"Región Altos Sur","Feminicidio",0,0,0,1,1,0,0,0,0,0,0,0,2
+"172",2017,"Región Altos Sur","Hostigamiento sexual",0,0,0,0,1,0,0,0,0,0,0,0,1
+"173",2017,"Región Altos Sur","Violación",2,2,0,0,3,0,1,2,0,0,0,0,10
+"174",2017,"Región Altos Sur","Violencia familiar",14,15,13,17,20,21,7,19,17,10,14,17,184
+"175",2017,"Región Centro","Abuso sexual",103,140,141,152,160,136,150,118,147,121,117,90,1575
+"176",2017,"Región Centro","Acoso sexual",3,1,0,12,12,13,12,12,16,10,12,10,113
+"177",2017,"Región Centro","Feminicidio",1,0,1,0,1,0,3,1,1,3,0,3,14
+"178",2017,"Región Centro","Hostigamiento sexual",18,21,20,5,4,10,3,1,3,8,4,2,99
+"179",2017,"Región Centro","Violación",30,21,53,30,29,34,31,37,23,27,21,26,362
+"180",2017,"Región Centro","Violencia familiar",560,481,640,489,692,635,658,773,665,670,639,470,7372
+"181",2017,"Región Ciénega","Abuso sexual",5,6,5,3,7,7,2,9,2,7,8,1,62
+"182",2017,"Región Ciénega","Acoso sexual",0,0,0,0,0,0,0,0,0,0,0,1,1
+"183",2017,"Región Ciénega","Feminicidio",0,0,0,1,1,0,0,0,0,0,0,0,2
+"184",2017,"Región Ciénega","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"185",2017,"Región Ciénega","Violación",1,0,1,1,1,1,0,1,0,2,0,0,8
+"186",2017,"Región Ciénega","Violencia familiar",9,7,11,8,4,9,12,6,16,6,6,12,106
+"187",2017,"Región Costa Sur","Abuso sexual",0,9,0,5,5,4,1,3,1,7,5,3,43
+"188",2017,"Región Costa Sur","Acoso sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"189",2017,"Región Costa Sur","Feminicidio",0,0,0,1,0,0,0,0,1,0,0,0,2
+"190",2017,"Región Costa Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"191",2017,"Región Costa Sur","Violación",0,0,0,0,1,0,0,0,0,0,0,0,1
+"192",2017,"Región Costa Sur","Violencia familiar",5,7,9,6,4,4,7,5,7,2,6,7,69
+"193",2017,"Región Costa-Sierra Occidental","Abuso sexual",5,4,7,13,12,10,13,10,16,10,22,6,128
+"194",2017,"Región Costa-Sierra Occidental","Acoso sexual",1,0,2,0,2,1,1,0,2,0,1,0,10
+"195",2017,"Región Costa-Sierra Occidental","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"196",2017,"Región Costa-Sierra Occidental","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,1,1
+"197",2017,"Región Costa-Sierra Occidental","Violación",0,1,1,3,0,3,1,2,2,1,2,1,17
+"198",2017,"Región Costa-Sierra Occidental","Violencia familiar",44,34,28,21,45,38,42,26,32,37,36,38,421
+"199",2017,"Región Lagunas","Abuso sexual",8,5,3,4,3,6,4,3,3,2,2,0,43
+"200",2017,"Región Lagunas","Acoso sexual",0,0,0,0,0,0,1,1,0,0,0,1,3
+"201",2017,"Región Lagunas","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,1,1
+"202",2017,"Región Lagunas","Hostigamiento sexual",0,0,0,1,0,0,0,0,0,0,0,0,1
+"203",2017,"Región Lagunas","Violación",0,0,0,0,0,3,1,0,0,0,0,1,5
+"204",2017,"Región Lagunas","Violencia familiar",12,17,11,12,12,20,10,8,12,7,11,8,140
+"205",2017,"Región Norte","Abuso sexual",2,2,2,2,2,1,3,4,1,1,3,1,24
+"206",2017,"Región Norte","Acoso sexual",0,0,0,1,0,0,0,0,0,1,0,0,2
+"207",2017,"Región Norte","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"208",2017,"Región Norte","Hostigamiento sexual",0,0,1,0,0,0,0,0,0,0,1,0,2
+"209",2017,"Región Norte","Violación",0,1,1,0,2,1,0,0,2,1,1,0,9
+"210",2017,"Región Norte","Violencia familiar",4,1,7,2,2,7,3,5,4,4,5,2,46
+"211",2017,"Región Sierra de Amula","Abuso sexual",3,3,3,8,3,6,5,1,8,5,4,2,51
+"212",2017,"Región Sierra de Amula","Acoso sexual",2,0,2,2,0,1,1,0,0,0,1,1,10
+"213",2017,"Región Sierra de Amula","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,1,1
+"214",2017,"Región Sierra de Amula","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"215",2017,"Región Sierra de Amula","Violación",2,0,1,0,0,0,0,2,0,0,0,2,7
+"216",2017,"Región Sierra de Amula","Violencia familiar",7,17,15,13,17,19,14,17,17,20,25,10,191
+"217",2017,"Región Sur","Abuso sexual",2,6,10,11,4,6,0,8,4,6,4,1,62
+"218",2017,"Región Sur","Acoso sexual",2,0,0,1,1,0,0,0,0,0,1,0,5
+"219",2017,"Región Sur","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"220",2017,"Región Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"221",2017,"Región Sur","Violación",0,0,0,0,0,1,0,1,0,1,1,0,4
+"222",2017,"Región Sur","Violencia familiar",8,12,15,7,10,11,17,12,9,13,22,0,136
+"223",2017,"Región Sureste","Abuso sexual",4,2,4,4,9,6,5,3,7,4,0,3,51
+"224",2017,"Región Sureste","Acoso sexual",0,1,0,0,0,0,0,0,0,0,1,1,3
+"225",2017,"Región Sureste","Feminicidio",0,0,0,0,0,0,1,0,0,1,0,0,2
+"226",2017,"Región Sureste","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"227",2017,"Región Sureste","Violación",0,0,2,0,0,0,0,0,1,1,0,0,4
+"228",2017,"Región Sureste","Violencia familiar",5,10,11,7,10,7,6,7,6,6,6,5,86
+"229",2017,"Región Valles","Abuso sexual",9,2,4,6,7,0,11,9,5,6,3,6,68
+"230",2017,"Región Valles","Acoso sexual",0,1,0,0,0,2,1,2,0,0,0,0,6
+"231",2017,"Región Valles","Feminicidio",0,0,0,0,0,0,0,1,0,0,0,1,2
+"232",2017,"Región Valles","Hostigamiento sexual",0,0,1,0,1,0,0,2,0,0,0,0,4
+"233",2017,"Región Valles","Violación",0,1,0,1,0,0,3,0,0,0,2,0,7
+"234",2017,"Región Valles","Violencia familiar",34,21,25,18,18,27,28,28,27,29,32,15,302
+"235",2018,"No especificado","Abuso sexual",11,4,8,3,16,8,11,20,7,13,12,16,129
+"236",2018,"No especificado","Acoso sexual",1,0,3,4,1,3,1,0,3,1,0,0,17
+"237",2018,"No especificado","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"238",2018,"No especificado","Hostigamiento sexual",0,0,0,0,0,0,0,2,0,1,0,0,3
+"239",2018,"No especificado","Violación",0,0,0,2,2,1,2,4,0,3,2,2,18
+"240",2018,"No especificado","Violencia familiar",11,1,13,8,9,7,12,10,5,8,7,10,101
+"241",2018,"Región Altos Norte","Abuso sexual",5,3,5,8,8,6,5,4,4,2,4,3,57
+"242",2018,"Región Altos Norte","Acoso sexual",0,1,0,0,0,0,0,0,0,1,0,0,2
+"243",2018,"Región Altos Norte","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,1,1
+"244",2018,"Región Altos Norte","Hostigamiento sexual",0,0,0,1,0,0,0,0,0,0,1,0,2
+"245",2018,"Región Altos Norte","Violación",1,1,1,1,1,4,0,0,0,1,1,1,12
+"246",2018,"Región Altos Norte","Violencia familiar",5,17,13,15,20,7,18,14,11,20,16,10,166
+"247",2018,"Región Altos Sur","Abuso sexual",2,2,2,6,8,8,9,5,5,8,6,5,66
+"248",2018,"Región Altos Sur","Acoso sexual",0,0,1,0,1,1,0,1,1,0,0,0,5
+"249",2018,"Región Altos Sur","Feminicidio",0,0,0,0,1,0,0,0,0,0,0,0,1
+"250",2018,"Región Altos Sur","Hostigamiento sexual",0,0,0,0,0,0,1,1,1,0,0,0,3
+"251",2018,"Región Altos Sur","Violación",1,0,1,0,0,4,0,2,0,1,1,2,12
+"252",2018,"Región Altos Sur","Violencia familiar",19,16,21,14,26,18,25,24,19,20,16,21,239
+"253",2018,"Región Centro","Abuso sexual",121,93,128,129,128,104,113,130,110,104,116,96,1372
+"254",2018,"Región Centro","Acoso sexual",22,18,24,22,17,26,13,11,12,18,12,13,208
+"255",2018,"Región Centro","Feminicidio",3,4,2,2,1,1,2,0,2,0,1,3,21
+"256",2018,"Región Centro","Hostigamiento sexual",1,1,5,5,5,4,4,0,1,4,3,1,34
+"257",2018,"Región Centro","Violación",27,25,31,24,16,26,21,16,17,21,24,17,265
+"258",2018,"Región Centro","Violencia familiar",631,536,667,706,667,654,588,481,462,450,361,333,6536
+"259",2018,"Región Ciénega","Abuso sexual",4,4,3,4,5,6,8,7,3,5,3,5,57
+"260",2018,"Región Ciénega","Acoso sexual",0,0,0,0,0,1,0,0,1,2,0,0,4
+"261",2018,"Región Ciénega","Feminicidio",0,0,0,1,0,0,0,0,0,0,0,0,1
+"262",2018,"Región Ciénega","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"263",2018,"Región Ciénega","Violación",0,1,1,0,3,1,2,3,0,1,1,0,13
+"264",2018,"Región Ciénega","Violencia familiar",8,16,12,8,10,23,13,25,14,16,13,15,173
+"265",2018,"Región Costa Sur","Abuso sexual",3,1,2,2,2,3,4,8,8,5,5,4,47
+"266",2018,"Región Costa Sur","Acoso sexual",0,0,0,1,0,0,0,0,0,0,0,0,1
+"267",2018,"Región Costa Sur","Feminicidio",1,0,1,0,0,0,0,0,0,0,0,0,2
+"268",2018,"Región Costa Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"269",2018,"Región Costa Sur","Violación",1,0,0,0,0,0,1,0,0,0,0,1,3
+"270",2018,"Región Costa Sur","Violencia familiar",12,8,4,4,6,8,4,6,6,6,6,1,71
+"271",2018,"Región Costa-Sierra Occidental","Abuso sexual",7,13,10,12,16,12,15,18,12,13,20,7,155
+"272",2018,"Región Costa-Sierra Occidental","Acoso sexual",1,0,1,0,3,1,0,0,1,2,2,3,14
+"273",2018,"Región Costa-Sierra Occidental","Feminicidio",0,1,0,1,0,0,0,0,0,0,0,0,2
+"274",2018,"Región Costa-Sierra Occidental","Hostigamiento sexual",0,0,1,0,0,2,3,1,5,0,3,0,15
+"275",2018,"Región Costa-Sierra Occidental","Violación",2,5,4,0,3,1,1,2,2,3,1,3,27
+"276",2018,"Región Costa-Sierra Occidental","Violencia familiar",35,43,28,50,64,52,73,49,65,65,51,59,634
+"277",2018,"Región Lagunas","Abuso sexual",2,3,3,7,4,2,2,4,3,3,5,2,40
+"278",2018,"Región Lagunas","Acoso sexual",1,0,0,0,1,0,0,0,1,1,0,0,4
+"279",2018,"Región Lagunas","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"280",2018,"Región Lagunas","Hostigamiento sexual",0,0,0,0,0,0,0,1,0,0,1,0,2
+"281",2018,"Región Lagunas","Violación",0,1,0,1,3,0,0,2,0,1,0,0,8
+"282",2018,"Región Lagunas","Violencia familiar",17,10,18,14,22,11,11,16,4,11,13,5,152
+"283",2018,"Región Norte","Abuso sexual",0,2,3,4,1,3,1,2,2,1,1,2,22
+"284",2018,"Región Norte","Acoso sexual",0,0,0,0,0,1,0,0,0,0,0,0,1
+"285",2018,"Región Norte","Feminicidio",0,0,0,0,0,0,1,0,0,0,0,0,1
+"286",2018,"Región Norte","Hostigamiento sexual",0,0,1,0,0,0,0,1,0,0,0,0,2
+"287",2018,"Región Norte","Violación",1,0,0,0,0,1,1,0,0,0,0,0,3
+"288",2018,"Región Norte","Violencia familiar",2,1,4,5,0,6,4,5,4,6,1,2,40
+"289",2018,"Región Sierra de Amula","Abuso sexual",4,3,7,3,3,5,7,3,8,3,6,1,53
+"290",2018,"Región Sierra de Amula","Acoso sexual",0,1,0,0,0,0,1,1,1,0,0,0,4
+"291",2018,"Región Sierra de Amula","Feminicidio",1,0,0,0,0,0,0,0,0,0,1,0,2
+"292",2018,"Región Sierra de Amula","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"293",2018,"Región Sierra de Amula","Violación",1,1,0,0,0,0,0,1,0,1,0,2,6
+"294",2018,"Región Sierra de Amula","Violencia familiar",7,12,18,14,17,17,21,22,17,23,16,24,208
+"295",2018,"Región Sur","Abuso sexual",6,2,7,5,4,4,3,7,4,2,4,6,54
+"296",2018,"Región Sur","Acoso sexual",1,0,0,0,0,0,0,2,2,0,1,2,8
+"297",2018,"Región Sur","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"298",2018,"Región Sur","Hostigamiento sexual",0,0,2,0,0,0,0,0,0,0,0,0,2
+"299",2018,"Región Sur","Violación",1,0,3,0,1,0,2,1,0,0,0,1,9
+"300",2018,"Región Sur","Violencia familiar",6,15,19,16,18,16,16,14,18,21,6,3,168
+"301",2018,"Región Sureste","Abuso sexual",2,1,3,2,3,2,5,3,4,3,5,1,34
+"302",2018,"Región Sureste","Acoso sexual",0,0,0,0,0,0,0,0,0,0,3,1,4
+"303",2018,"Región Sureste","Feminicidio",0,0,0,0,0,1,0,0,0,0,0,0,1
+"304",2018,"Región Sureste","Hostigamiento sexual",0,0,0,0,0,0,0,1,0,0,0,0,1
+"305",2018,"Región Sureste","Violación",0,0,1,1,0,0,1,0,2,0,1,1,7
+"306",2018,"Región Sureste","Violencia familiar",8,8,10,8,16,7,11,7,7,8,6,5,101
+"307",2018,"Región Valles","Abuso sexual",7,3,7,6,6,10,3,5,6,6,6,5,70
+"308",2018,"Región Valles","Acoso sexual",0,0,1,2,1,0,2,0,3,2,0,1,12
+"309",2018,"Región Valles","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,1,1
+"310",2018,"Región Valles","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,1,0,0,1
+"311",2018,"Región Valles","Violación",0,0,1,2,1,1,0,1,0,2,0,1,9
+"312",2018,"Región Valles","Violencia familiar",17,26,18,21,29,23,30,16,15,29,17,20,261
+"313",2019,"No especificado","Abuso sexual",21,15,30,29,12,12,11,20,19,8,7,11,195
+"314",2019,"No especificado","Acoso sexual",0,0,2,1,2,0,2,3,1,0,1,1,13
+"315",2019,"No especificado","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"316",2019,"No especificado","Hostigamiento sexual",0,0,0,0,0,0,1,1,0,0,0,0,2
+"317",2019,"No especificado","Violación",0,0,2,2,2,1,1,1,0,1,2,2,14
+"318",2019,"No especificado","Violencia familiar",13,6,13,30,15,20,25,55,33,4,8,10,232
+"319",2019,"Región Altos Norte","Abuso sexual",7,6,7,11,11,8,2,2,6,2,4,5,71
+"320",2019,"Región Altos Norte","Acoso sexual",0,0,0,0,0,1,1,0,1,0,0,0,3
+"321",2019,"Región Altos Norte","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"322",2019,"Región Altos Norte","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,1,0,0,1
+"323",2019,"Región Altos Norte","Violación",0,0,2,0,1,2,0,1,1,4,0,0,11
+"324",2019,"Región Altos Norte","Violencia familiar",18,14,12,20,29,19,28,33,17,29,15,27,261
+"325",2019,"Región Altos Sur","Abuso sexual",6,4,6,8,7,9,9,5,8,6,10,3,81
+"326",2019,"Región Altos Sur","Acoso sexual",0,1,1,0,0,1,2,0,0,0,0,1,6
+"327",2019,"Región Altos Sur","Feminicidio",0,0,0,0,0,0,0,0,0,0,1,0,1
+"328",2019,"Región Altos Sur","Hostigamiento sexual",1,0,0,1,0,0,0,0,0,0,0,0,2
+"329",2019,"Región Altos Sur","Violación",1,2,1,0,2,1,1,1,1,1,2,0,13
+"330",2019,"Región Altos Sur","Violencia familiar",24,29,23,36,33,26,45,30,22,40,32,35,375
+"331",2019,"Región Centro","Abuso sexual",136,112,130,140,202,129,110,136,113,109,95,111,1523
+"332",2019,"Región Centro","Acoso sexual",15,10,14,12,23,27,18,29,18,20,16,22,224
+"333",2019,"Región Centro","Feminicidio",4,6,5,2,3,3,3,5,3,6,4,7,51
+"334",2019,"Región Centro","Hostigamiento sexual",2,6,1,5,6,5,4,6,2,4,5,7,53
+"335",2019,"Región Centro","Violación",19,26,26,26,21,31,40,24,26,30,39,25,333
+"336",2019,"Región Centro","Violencia familiar",434,459,613,661,839,780,718,763,668,702,535,523,7695
+"337",2019,"Región Ciénega","Abuso sexual",7,4,7,9,9,6,3,5,5,4,8,3,70
+"338",2019,"Región Ciénega","Acoso sexual",1,1,0,0,0,0,1,0,1,1,0,0,5
+"339",2019,"Región Ciénega","Feminicidio",0,0,0,0,0,0,1,0,0,0,0,0,1
+"340",2019,"Región Ciénega","Hostigamiento sexual",0,0,0,0,1,0,0,0,0,0,0,0,1
+"341",2019,"Región Ciénega","Violación",0,0,2,0,0,1,2,2,0,1,0,1,9
+"342",2019,"Región Ciénega","Violencia familiar",24,20,16,27,34,14,40,52,36,43,17,26,349
+"343",2019,"Región Costa Sur","Abuso sexual",3,2,5,4,6,3,6,4,2,4,0,2,41
+"344",2019,"Región Costa Sur","Acoso sexual",1,0,1,1,0,0,0,0,0,1,0,0,4
+"345",2019,"Región Costa Sur","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,1,1
+"346",2019,"Región Costa Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"347",2019,"Región Costa Sur","Violación",0,1,0,0,0,0,0,1,1,0,0,0,3
+"348",2019,"Región Costa Sur","Violencia familiar",7,5,4,4,5,3,12,10,4,8,5,4,71
+"349",2019,"Región Costa-Sierra Occidental","Abuso sexual",15,7,8,10,14,8,14,22,12,10,15,10,145
+"350",2019,"Región Costa-Sierra Occidental","Acoso sexual",0,0,0,2,2,3,0,0,0,0,0,0,7
+"351",2019,"Región Costa-Sierra Occidental","Feminicidio",0,1,0,0,1,0,1,2,0,0,0,0,5
+"352",2019,"Región Costa-Sierra Occidental","Hostigamiento sexual",1,1,0,0,0,1,0,0,0,0,1,0,4
+"353",2019,"Región Costa-Sierra Occidental","Violación",0,3,0,0,2,2,2,3,2,6,2,0,22
+"354",2019,"Región Costa-Sierra Occidental","Violencia familiar",69,68,63,92,88,77,87,91,77,79,71,75,937
+"355",2019,"Región Lagunas","Abuso sexual",2,4,6,4,3,6,4,3,4,7,5,3,51
+"356",2019,"Región Lagunas","Acoso sexual",0,0,1,0,0,1,0,1,1,0,0,1,5
+"357",2019,"Región Lagunas","Feminicidio",0,0,0,0,0,1,0,0,0,0,0,0,1
+"358",2019,"Región Lagunas","Hostigamiento sexual",0,0,0,1,0,0,0,0,0,0,0,0,1
+"359",2019,"Región Lagunas","Violación",0,0,0,0,0,0,0,2,0,1,1,0,4
+"360",2019,"Región Lagunas","Violencia familiar",10,8,11,8,19,8,23,15,17,13,18,10,160
+"361",2019,"Región Norte","Abuso sexual",1,2,2,0,3,4,3,3,0,4,0,3,25
+"362",2019,"Región Norte","Acoso sexual",0,1,1,1,1,0,1,0,0,1,0,0,6
+"363",2019,"Región Norte","Feminicidio",0,0,0,1,0,0,1,0,1,0,0,0,3
+"364",2019,"Región Norte","Hostigamiento sexual",0,0,0,0,0,1,0,0,0,0,0,0,1
+"365",2019,"Región Norte","Violación",0,0,0,0,1,0,0,0,0,0,0,1,2
+"366",2019,"Región Norte","Violencia familiar",4,3,5,5,9,4,8,7,5,4,6,4,64
+"367",2019,"Región Sierra de Amula","Abuso sexual",4,7,3,3,5,2,6,0,2,5,6,3,46
+"368",2019,"Región Sierra de Amula","Acoso sexual",0,0,0,0,0,0,1,0,0,0,0,0,1
+"369",2019,"Región Sierra de Amula","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"370",2019,"Región Sierra de Amula","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"371",2019,"Región Sierra de Amula","Violación",0,2,2,1,0,1,1,1,1,1,0,1,11
+"372",2019,"Región Sierra de Amula","Violencia familiar",24,17,24,7,25,16,15,15,20,23,20,20,226
+"373",2019,"Región Sur","Abuso sexual",3,2,8,4,4,3,5,8,4,8,8,4,61
+"374",2019,"Región Sur","Acoso sexual",1,2,1,0,1,2,0,1,0,0,1,3,12
+"375",2019,"Región Sur","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"376",2019,"Región Sur","Hostigamiento sexual",1,0,1,0,0,2,1,0,0,0,1,0,6
+"377",2019,"Región Sur","Violación",1,1,2,2,0,0,1,1,0,0,2,0,10
+"378",2019,"Región Sur","Violencia familiar",11,17,9,6,9,6,14,9,7,14,11,10,123
+"379",2019,"Región Sureste","Abuso sexual",2,2,0,1,2,4,2,9,1,2,5,7,37
+"380",2019,"Región Sureste","Acoso sexual",1,0,0,0,0,0,0,0,0,0,0,0,1
+"381",2019,"Región Sureste","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"382",2019,"Región Sureste","Hostigamiento sexual",0,1,0,0,0,0,0,0,0,0,0,0,1
+"383",2019,"Región Sureste","Violación",2,0,1,0,1,0,0,0,0,0,0,2,6
+"384",2019,"Región Sureste","Violencia familiar",11,16,13,12,26,16,6,12,12,6,12,10,152
+"385",2019,"Región Valles","Abuso sexual",8,8,9,6,8,4,1,9,5,11,3,5,77
+"386",2019,"Región Valles","Acoso sexual",0,1,1,0,1,0,0,0,0,1,1,0,5
+"387",2019,"Región Valles","Feminicidio",1,0,0,0,0,0,0,0,0,0,0,1,2
+"388",2019,"Región Valles","Hostigamiento sexual",0,1,0,0,0,1,0,0,0,0,0,0,2
+"389",2019,"Región Valles","Violación",0,3,2,1,0,1,0,1,0,0,0,0,8
+"390",2019,"Región Valles","Violencia familiar",37,23,35,30,38,37,41,42,33,37,32,25,410
+"391",2020,"No especificado","Abuso sexual",7,1,2,1,0,1,0,0,0,2,0,0,14
+"392",2020,"No especificado","Acoso sexual",0,0,1,0,0,0,0,0,0,0,0,0,1
+"393",2020,"No especificado","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"394",2020,"No especificado","Hostigamiento sexual",0,1,0,0,0,0,0,0,0,0,0,0,1
+"395",2020,"No especificado","Violación",1,0,1,0,0,0,0,0,0,0,0,0,2
+"396",2020,"No especificado","Violencia familiar",7,3,0,2,0,0,0,0,0,0,0,0,12
+"397",2020,"Región Altos Norte","Abuso sexual",5,4,1,5,6,7,6,11,9,2,4,5,65
+"398",2020,"Región Altos Norte","Acoso sexual",0,0,1,0,0,2,0,2,0,1,2,1,9
+"399",2020,"Región Altos Norte","Feminicidio",0,0,0,0,0,0,1,0,0,0,0,0,1
+"400",2020,"Región Altos Norte","Hostigamiento sexual",0,1,0,0,0,0,0,0,0,0,0,0,1
+"401",2020,"Región Altos Norte","Violación",0,0,1,0,0,0,1,3,2,3,0,2,12
+"402",2020,"Región Altos Norte","Violencia familiar",20,22,30,36,48,41,46,49,40,26,25,29,412
+"403",2020,"Región Altos Sur","Abuso sexual",8,4,11,7,12,4,5,4,8,8,5,5,81
+"404",2020,"Región Altos Sur","Acoso sexual",0,0,0,1,3,0,0,0,0,2,0,0,6
+"405",2020,"Región Altos Sur","Feminicidio",0,0,0,0,0,0,0,0,0,1,0,0,1
+"406",2020,"Región Altos Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"407",2020,"Región Altos Sur","Violación",1,0,1,1,0,1,0,1,2,1,2,1,11
+"408",2020,"Región Altos Sur","Violencia familiar",34,22,25,26,39,37,29,19,29,37,29,27,353
+"409",2020,"Región Centro","Abuso sexual",96,144,145,108,115,121,98,124,119,130,115,93,1408
+"410",2020,"Región Centro","Acoso sexual",14,21,23,6,14,19,21,23,18,21,12,13,205
+"411",2020,"Región Centro","Feminicidio",4,3,4,4,3,3,0,3,5,7,5,11,52
+"412",2020,"Región Centro","Hostigamiento sexual",3,6,6,1,7,1,2,5,3,4,2,3,43
+"413",2020,"Región Centro","Violación",20,26,30,18,23,18,16,18,25,26,26,29,275
+"414",2020,"Región Centro","Violencia familiar",530,703,802,744,822,880,802,716,663,720,603,613,8598
+"415",2020,"Región Ciénega","Abuso sexual",3,5,7,6,8,4,10,6,8,5,5,9,76
+"416",2020,"Región Ciénega","Acoso sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"417",2020,"Región Ciénega","Feminicidio",0,0,0,2,0,0,0,0,0,0,0,0,2
+"418",2020,"Región Ciénega","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"419",2020,"Región Ciénega","Violación",1,0,3,1,0,0,0,1,2,1,1,4,14
+"420",2020,"Región Ciénega","Violencia familiar",31,29,32,19,33,34,32,30,37,23,37,32,369
+"421",2020,"Región Costa Sur","Abuso sexual",7,7,6,5,8,4,5,0,2,2,6,1,53
+"422",2020,"Región Costa Sur","Acoso sexual",0,0,0,0,1,0,0,0,1,0,1,0,3
+"423",2020,"Región Costa Sur","Feminicidio",0,0,0,0,0,0,1,0,0,0,0,0,1
+"424",2020,"Región Costa Sur","Hostigamiento sexual",0,1,1,1,0,0,0,1,1,0,0,0,5
+"425",2020,"Región Costa Sur","Violación",1,1,0,0,0,0,0,0,0,2,0,0,4
+"426",2020,"Región Costa Sur","Violencia familiar",8,8,13,4,11,14,11,9,13,29,13,10,143
+"427",2020,"Región Costa-Sierra Occidental","Abuso sexual",14,10,9,17,8,14,18,14,11,12,6,10,143
+"428",2020,"Región Costa-Sierra Occidental","Acoso sexual",1,2,1,0,0,1,0,0,0,0,2,4,11
+"429",2020,"Región Costa-Sierra Occidental","Feminicidio",0,0,0,0,1,1,0,0,0,0,0,1,3
+"430",2020,"Región Costa-Sierra Occidental","Hostigamiento sexual",0,0,0,0,0,1,0,1,0,0,0,0,2
+"431",2020,"Región Costa-Sierra Occidental","Violación",2,7,0,1,2,0,0,1,2,0,1,1,17
+"432",2020,"Región Costa-Sierra Occidental","Violencia familiar",60,72,87,49,54,88,79,72,58,80,69,59,827
+"433",2020,"Región Lagunas","Abuso sexual",5,3,4,5,2,2,5,2,6,2,3,1,40
+"434",2020,"Región Lagunas","Acoso sexual",2,1,2,0,0,1,0,2,1,0,0,0,9
+"435",2020,"Región Lagunas","Feminicidio",0,0,0,1,0,0,0,0,0,0,0,1,2
+"436",2020,"Región Lagunas","Hostigamiento sexual",0,1,0,0,0,0,0,0,0,0,0,0,1
+"437",2020,"Región Lagunas","Violación",0,1,0,2,0,1,1,0,0,0,1,1,7
+"438",2020,"Región Lagunas","Violencia familiar",16,18,21,16,20,19,14,20,24,26,18,17,229
+"439",2020,"Región Norte","Abuso sexual",0,3,4,4,2,1,1,3,1,2,2,2,25
+"440",2020,"Región Norte","Acoso sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"441",2020,"Región Norte","Feminicidio",0,0,1,1,0,0,0,0,0,0,0,0,2
+"442",2020,"Región Norte","Hostigamiento sexual",0,0,1,0,0,0,0,0,0,0,0,1,2
+"443",2020,"Región Norte","Violación",0,0,0,0,0,0,0,0,0,1,0,0,1
+"444",2020,"Región Norte","Violencia familiar",2,2,1,2,4,4,3,4,4,3,4,1,34
+"445",2020,"Región Sierra de Amula","Abuso sexual",4,5,6,4,5,8,5,3,3,4,2,2,51
+"446",2020,"Región Sierra de Amula","Acoso sexual",0,0,0,0,0,0,0,0,1,0,0,0,1
+"447",2020,"Región Sierra de Amula","Feminicidio",0,0,0,0,0,0,0,0,0,0,1,0,1
+"448",2020,"Región Sierra de Amula","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,1,0,1
+"449",2020,"Región Sierra de Amula","Violación",2,0,0,0,1,1,0,0,0,0,0,1,5
+"450",2020,"Región Sierra de Amula","Violencia familiar",20,12,12,14,25,18,25,18,16,20,17,23,220
+"451",2020,"Región Sur","Abuso sexual",5,8,8,6,4,6,4,1,10,8,3,10,73
+"452",2020,"Región Sur","Acoso sexual",0,1,0,1,0,0,0,0,2,1,0,1,6
+"453",2020,"Región Sur","Feminicidio",0,0,0,0,1,0,0,0,0,0,0,0,1
+"454",2020,"Región Sur","Hostigamiento sexual",0,0,0,1,0,0,0,0,0,0,0,1,2
+"455",2020,"Región Sur","Violación",1,0,1,2,0,2,0,1,0,1,0,0,8
+"456",2020,"Región Sur","Violencia familiar",1,13,9,4,15,13,13,5,18,10,8,9,118
+"457",2020,"Región Sureste","Abuso sexual",4,1,4,2,2,3,2,5,2,2,3,2,32
+"458",2020,"Región Sureste","Acoso sexual",0,0,0,0,0,0,0,1,0,0,0,0,1
+"459",2020,"Región Sureste","Feminicidio",0,0,0,0,1,0,0,0,0,1,0,0,2
+"460",2020,"Región Sureste","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"461",2020,"Región Sureste","Violación",0,1,0,0,0,0,1,0,1,0,1,1,5
+"462",2020,"Región Sureste","Violencia familiar",10,6,13,7,8,8,10,4,6,8,5,5,90
+"463",2020,"Región Valles","Abuso sexual",3,4,13,6,4,8,6,6,9,5,7,5,76
+"464",2020,"Región Valles","Acoso sexual",1,1,3,2,0,1,0,0,1,1,1,0,11
+"465",2020,"Región Valles","Feminicidio",0,0,1,0,0,0,0,1,0,0,0,0,2
+"466",2020,"Región Valles","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,1,1,0,2
+"467",2020,"Región Valles","Violación",0,1,0,1,1,1,0,0,2,1,0,1,8
+"468",2020,"Región Valles","Violencia familiar",39,33,50,42,37,42,42,53,33,44,30,42,487
+"469",2021,"No especificado","Abuso sexual",0,2,3,1,1,0,0,0,1,1,0,1,10
+"470",2021,"No especificado","Acoso sexual",0,0,1,0,0,0,0,0,0,0,0,0,1
+"471",2021,"No especificado","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"472",2021,"No especificado","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"473",2021,"No especificado","Violación",0,1,2,0,0,0,0,1,0,0,0,0,4
+"474",2021,"No especificado","Violencia familiar",0,1,1,0,1,0,1,0,0,1,1,0,6
+"475",2021,"Región Altos Norte","Abuso sexual",2,4,8,10,12,4,7,7,6,4,4,2,70
+"476",2021,"Región Altos Norte","Acoso sexual",0,0,0,0,3,3,0,2,2,0,0,0,10
+"477",2021,"Región Altos Norte","Feminicidio",1,0,1,0,0,0,0,0,0,0,0,0,2
+"478",2021,"Región Altos Norte","Hostigamiento sexual",0,1,0,0,0,0,0,0,0,0,1,0,2
+"479",2021,"Región Altos Norte","Violación",1,1,0,1,0,4,0,1,2,0,1,0,11
+"480",2021,"Región Altos Norte","Violencia familiar",29,42,40,52,56,58,39,39,25,40,41,31,492
+"481",2021,"Región Altos Sur","Abuso sexual",6,7,8,13,9,8,2,5,7,7,7,4,83
+"482",2021,"Región Altos Sur","Acoso sexual",0,1,2,0,0,0,0,1,1,3,0,0,8
+"483",2021,"Región Altos Sur","Feminicidio",0,0,0,1,1,0,0,0,0,0,0,0,2
+"484",2021,"Región Altos Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"485",2021,"Región Altos Sur","Violación",0,1,0,1,3,1,1,1,2,0,1,0,11
+"486",2021,"Región Altos Sur","Violencia familiar",26,38,41,39,35,34,26,26,23,29,43,29,389
+"487",2021,"Región Centro","Abuso sexual",97,107,163,133,130,133,143,138,136,122,134,133,1569
+"488",2021,"Región Centro","Acoso sexual",8,21,25,32,11,11,13,11,20,8,16,19,195
+"489",2021,"Región Centro","Feminicidio",2,6,5,8,12,9,1,6,2,1,4,5,61
+"490",2021,"Región Centro","Hostigamiento sexual",0,9,8,10,4,1,3,4,4,2,2,2,49
+"491",2021,"Región Centro","Violación",25,31,34,38,33,29,40,25,35,37,35,31,393
+"492",2021,"Región Centro","Violencia familiar",630,657,963,914,871,749,705,708,687,816,717,725,9142
+"493",2021,"Región Ciénega","Abuso sexual",4,4,6,5,5,7,12,6,4,4,4,4,65
+"494",2021,"Región Ciénega","Acoso sexual",0,1,0,0,0,0,1,0,1,1,1,0,5
+"495",2021,"Región Ciénega","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"496",2021,"Región Ciénega","Hostigamiento sexual",0,2,0,1,1,0,0,0,0,1,1,1,7
+"497",2021,"Región Ciénega","Violación",0,0,1,0,1,1,0,0,0,1,1,1,6
+"498",2021,"Región Ciénega","Violencia familiar",33,28,46,57,31,43,37,31,34,42,32,27,441
+"499",2021,"Región Costa Sur","Abuso sexual",6,3,5,12,8,4,3,9,5,6,2,2,65
+"500",2021,"Región Costa Sur","Acoso sexual",0,1,1,0,0,0,0,0,0,0,0,0,2
+"501",2021,"Región Costa Sur","Feminicidio",0,1,1,0,1,0,0,0,0,1,0,0,4
+"502",2021,"Región Costa Sur","Hostigamiento sexual",0,0,0,0,0,0,1,0,0,0,0,0,1
+"503",2021,"Región Costa Sur","Violación",1,0,0,0,0,0,0,0,0,0,0,0,1
+"504",2021,"Región Costa Sur","Violencia familiar",17,15,16,15,10,16,14,13,17,14,20,17,184
+"505",2021,"Región Costa-Sierra Occidental","Abuso sexual",18,18,13,17,20,19,16,16,15,15,10,10,187
+"506",2021,"Región Costa-Sierra Occidental","Acoso sexual",0,0,3,1,0,1,1,1,0,1,8,1,17
+"507",2021,"Región Costa-Sierra Occidental","Feminicidio",1,0,0,0,0,0,0,0,0,1,0,1,3
+"508",2021,"Región Costa-Sierra Occidental","Hostigamiento sexual",0,1,0,0,0,1,0,0,1,1,1,1,6
+"509",2021,"Región Costa-Sierra Occidental","Violación",1,1,2,8,2,0,2,2,2,3,5,3,31
+"510",2021,"Región Costa-Sierra Occidental","Violencia familiar",43,41,66,67,58,48,59,50,40,53,44,45,614
+"511",2021,"Región Lagunas","Abuso sexual",9,7,3,7,2,5,2,2,7,3,0,4,51
+"512",2021,"Región Lagunas","Acoso sexual",2,0,0,1,0,0,2,0,1,0,0,0,6
+"513",2021,"Región Lagunas","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"514",2021,"Región Lagunas","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,1,1
+"515",2021,"Región Lagunas","Violación",1,1,1,0,1,1,1,1,0,0,0,2,9
+"516",2021,"Región Lagunas","Violencia familiar",20,14,18,29,22,14,18,22,12,24,18,17,228
+"517",2021,"Región Norte","Abuso sexual",2,1,0,3,1,2,2,2,0,6,1,0,20
+"518",2021,"Región Norte","Acoso sexual",1,1,1,1,1,1,0,0,1,0,1,0,8
+"519",2021,"Región Norte","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"520",2021,"Región Norte","Hostigamiento sexual",0,1,0,1,0,0,0,0,0,0,0,0,2
+"521",2021,"Región Norte","Violación",0,0,1,0,0,0,0,0,1,0,0,0,2
+"522",2021,"Región Norte","Violencia familiar",1,8,9,5,9,8,6,4,5,7,6,5,73
+"523",2021,"Región Sierra de Amula","Abuso sexual",3,2,6,6,4,4,6,4,2,8,6,6,57
+"524",2021,"Región Sierra de Amula","Acoso sexual",0,0,0,1,1,1,0,0,1,2,1,2,9
+"525",2021,"Región Sierra de Amula","Feminicidio",0,0,0,0,0,0,0,0,0,1,0,0,1
+"526",2021,"Región Sierra de Amula","Hostigamiento sexual",0,0,0,1,0,0,0,0,0,0,0,0,1
+"527",2021,"Región Sierra de Amula","Violación",0,1,1,1,2,0,1,0,1,3,3,1,14
+"528",2021,"Región Sierra de Amula","Violencia familiar",19,12,23,28,27,24,23,23,17,30,22,24,272
+"529",2021,"Región Sur","Abuso sexual",10,3,9,3,6,5,7,3,8,11,7,7,79
+"530",2021,"Región Sur","Acoso sexual",0,0,0,0,0,1,0,0,0,0,0,0,1
+"531",2021,"Región Sur","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"532",2021,"Región Sur","Hostigamiento sexual",0,1,0,0,0,1,1,1,0,0,1,0,5
+"533",2021,"Región Sur","Violación",0,1,2,3,0,1,1,0,1,0,0,0,9
+"534",2021,"Región Sur","Violencia familiar",21,23,23,18,15,22,12,18,16,23,16,16,223
+"535",2021,"Región Sureste","Abuso sexual",2,4,4,5,0,7,1,3,5,4,3,3,41
+"536",2021,"Región Sureste","Acoso sexual",0,0,1,1,0,0,0,2,0,0,1,0,5
+"537",2021,"Región Sureste","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"538",2021,"Región Sureste","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"539",2021,"Región Sureste","Violación",0,0,0,2,1,1,0,1,3,0,2,0,10
+"540",2021,"Región Sureste","Violencia familiar",20,7,20,10,15,9,7,5,18,8,7,9,135
+"541",2021,"Región Valles","Abuso sexual",4,3,13,9,8,8,6,7,3,5,5,10,81
+"542",2021,"Región Valles","Acoso sexual",1,0,1,0,1,0,0,2,1,0,3,1,10
+"543",2021,"Región Valles","Feminicidio",0,0,1,0,0,0,0,0,0,0,0,0,1
+"544",2021,"Región Valles","Hostigamiento sexual",0,2,0,0,1,0,0,0,0,2,0,0,5
+"545",2021,"Región Valles","Violación",0,0,2,3,2,0,1,0,1,1,2,4,16
+"546",2021,"Región Valles","Violencia familiar",31,27,34,41,23,42,33,47,31,35,44,32,420
+"547",2022,"No especificado","Abuso sexual",1,0,2,8,3,1,1,1,2,2,1,5,27
+"548",2022,"No especificado","Acoso sexual",0,0,0,0,0,0,0,0,0,1,0,0,1
+"549",2022,"No especificado","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"550",2022,"No especificado","Hostigamiento sexual",0,0,2,0,0,0,0,0,0,0,0,0,2
+"551",2022,"No especificado","Violación",0,0,2,0,1,0,0,1,0,0,0,0,4
+"552",2022,"No especificado","Violencia familiar",0,0,0,0,0,0,0,0,1,0,0,0,1
+"553",2022,"Región Altos Norte","Abuso sexual",2,4,8,10,8,4,2,7,2,4,6,4,61
+"554",2022,"Región Altos Norte","Acoso sexual",2,0,1,0,4,1,0,0,0,0,2,0,10
+"555",2022,"Región Altos Norte","Feminicidio",0,0,1,0,0,0,0,0,0,0,0,0,1
+"556",2022,"Región Altos Norte","Hostigamiento sexual",1,0,1,0,2,1,0,0,0,3,0,0,8
+"557",2022,"Región Altos Norte","Violación",1,0,0,2,1,1,0,2,1,1,0,2,11
+"558",2022,"Región Altos Norte","Violencia familiar",30,34,52,62,48,56,31,62,48,55,41,28,547
+"559",2022,"Región Altos Sur","Abuso sexual",4,5,15,12,5,9,9,7,7,7,7,2,89
+"560",2022,"Región Altos Sur","Acoso sexual",1,2,3,0,1,2,0,1,0,0,0,0,10
+"561",2022,"Región Altos Sur","Feminicidio",0,0,1,0,0,0,0,0,0,0,0,0,1
+"562",2022,"Región Altos Sur","Hostigamiento sexual",0,0,0,0,0,1,0,0,1,0,0,0,2
+"563",2022,"Región Altos Sur","Violación",0,0,1,1,3,1,2,0,2,1,1,0,12
+"564",2022,"Región Altos Sur","Violencia familiar",21,23,33,33,38,34,25,46,28,41,26,23,371
+"565",2022,"Región Centro","Abuso sexual",107,137,170,171,162,146,191,197,257,277,278,282,2375
+"566",2022,"Región Centro","Acoso sexual",5,18,21,34,27,19,19,13,15,15,21,13,220
+"567",2022,"Región Centro","Feminicidio",1,2,1,1,2,1,0,2,2,5,1,4,22
+"568",2022,"Región Centro","Hostigamiento sexual",4,1,6,2,10,2,4,7,1,11,8,7,63
+"569",2022,"Región Centro","Violación",21,32,38,34,41,21,25,39,36,50,28,28,393
+"570",2022,"Región Centro","Violencia familiar",703,680,893,833,947,771,765,910,910,948,944,844,10148
+"571",2022,"Región Ciénega","Abuso sexual",5,7,4,4,7,6,5,6,6,6,6,6,68
+"572",2022,"Región Ciénega","Acoso sexual",0,0,0,0,3,0,1,0,0,0,1,0,5
+"573",2022,"Región Ciénega","Feminicidio",0,0,0,0,0,1,0,0,0,0,0,1,2
+"574",2022,"Región Ciénega","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,1,0,1
+"575",2022,"Región Ciénega","Violación",0,0,1,0,1,1,0,3,1,2,1,2,12
+"576",2022,"Región Ciénega","Violencia familiar",29,38,36,35,51,40,33,35,38,36,49,25,445
+"577",2022,"Región Costa Sur","Abuso sexual",2,5,5,7,5,9,5,5,3,5,6,2,59
+"578",2022,"Región Costa Sur","Acoso sexual",0,1,0,1,0,0,0,0,0,0,0,0,2
+"579",2022,"Región Costa Sur","Feminicidio",0,0,0,0,0,1,0,0,0,0,0,0,1
+"580",2022,"Región Costa Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"581",2022,"Región Costa Sur","Violación",1,0,1,0,0,0,0,1,0,0,0,0,3
+"582",2022,"Región Costa Sur","Violencia familiar",12,10,8,6,7,11,13,26,11,13,11,6,134
+"583",2022,"Región Costa-Sierra Occidental","Abuso sexual",17,15,20,10,23,14,23,14,19,11,22,24,212
+"584",2022,"Región Costa-Sierra Occidental","Acoso sexual",0,0,0,1,3,6,2,3,0,5,1,2,23
+"585",2022,"Región Costa-Sierra Occidental","Feminicidio",1,0,0,0,1,0,0,1,0,2,0,0,5
+"586",2022,"Región Costa-Sierra Occidental","Hostigamiento sexual",1,1,0,1,0,1,0,0,0,2,1,1,8
+"587",2022,"Región Costa-Sierra Occidental","Violación",1,1,3,3,2,3,4,4,5,6,5,4,41
+"588",2022,"Región Costa-Sierra Occidental","Violencia familiar",39,42,54,46,71,56,54,63,65,66,62,60,678
+"589",2022,"Región Lagunas","Abuso sexual",2,3,5,8,8,9,3,5,5,8,5,4,65
+"590",2022,"Región Lagunas","Acoso sexual",0,0,0,0,2,0,0,1,0,2,0,0,5
+"591",2022,"Región Lagunas","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"592",2022,"Región Lagunas","Hostigamiento sexual",2,0,1,0,0,0,0,0,0,0,0,0,3
+"593",2022,"Región Lagunas","Violación",1,1,0,2,1,0,0,0,1,1,1,0,8
+"594",2022,"Región Lagunas","Violencia familiar",15,14,27,21,19,18,14,26,19,18,23,18,232
+"595",2022,"Región Norte","Abuso sexual",3,1,1,4,2,4,2,2,3,1,2,5,30
+"596",2022,"Región Norte","Acoso sexual",0,0,1,1,0,0,0,0,0,0,0,0,2
+"597",2022,"Región Norte","Feminicidio",3,0,0,0,0,0,0,0,0,0,0,0,3
+"598",2022,"Región Norte","Hostigamiento sexual",1,0,0,0,0,0,1,0,0,0,0,0,2
+"599",2022,"Región Norte","Violación",0,0,0,0,0,0,3,0,1,0,0,1,5
+"600",2022,"Región Norte","Violencia familiar",4,4,9,8,5,5,13,7,2,4,3,4,68
+"601",2022,"Región Sierra de Amula","Abuso sexual",3,7,8,8,9,6,6,5,5,14,5,8,84
+"602",2022,"Región Sierra de Amula","Acoso sexual",1,2,0,1,1,1,0,0,0,0,0,3,9
+"603",2022,"Región Sierra de Amula","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"604",2022,"Región Sierra de Amula","Hostigamiento sexual",0,0,0,0,0,0,0,1,0,0,0,0,1
+"605",2022,"Región Sierra de Amula","Violación",0,0,0,2,2,0,2,1,0,1,1,0,9
+"606",2022,"Región Sierra de Amula","Violencia familiar",18,18,27,37,19,31,19,14,22,36,28,23,292
+"607",2022,"Región Sur","Abuso sexual",4,6,4,2,10,5,13,6,8,7,10,4,79
+"608",2022,"Región Sur","Acoso sexual",0,0,0,0,2,0,0,1,3,0,4,2,12
+"609",2022,"Región Sur","Feminicidio",0,1,0,1,0,0,0,0,0,0,1,0,3
+"610",2022,"Región Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,1,1
+"611",2022,"Región Sur","Violación",0,1,0,1,1,1,1,1,1,1,0,1,9
+"612",2022,"Región Sur","Violencia familiar",11,18,24,24,16,18,20,21,23,31,21,23,250
+"613",2022,"Región Sureste","Abuso sexual",4,4,0,3,7,4,3,3,4,4,0,11,47
+"614",2022,"Región Sureste","Acoso sexual",1,0,0,1,1,2,0,0,0,0,0,1,6
+"615",2022,"Región Sureste","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"616",2022,"Región Sureste","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"617",2022,"Región Sureste","Violación",1,0,0,0,1,1,0,1,0,1,0,2,7
+"618",2022,"Región Sureste","Violencia familiar",6,5,13,14,13,3,10,12,18,12,14,5,125
+"619",2022,"Región Valles","Abuso sexual",6,8,12,8,10,6,9,7,8,11,11,4,100
+"620",2022,"Región Valles","Acoso sexual",1,1,3,1,0,3,0,2,2,1,1,1,16
+"621",2022,"Región Valles","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"622",2022,"Región Valles","Hostigamiento sexual",0,0,0,0,0,0,0,0,1,1,0,0,2
+"623",2022,"Región Valles","Violación",0,2,1,1,2,0,0,1,1,2,2,0,12
+"624",2022,"Región Valles","Violencia familiar",27,23,46,34,38,36,45,42,43,40,42,40,456
+"625",2023,"No especificado","Abuso sexual",7,10,8,13,1,2,3,5,1,1,6,2,59
+"626",2023,"No especificado","Acoso sexual",0,0,0,0,0,0,0,0,0,0,1,0,1
+"627",2023,"No especificado","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,0,0
+"628",2023,"No especificado","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"629",2023,"No especificado","Violación",0,0,0,0,1,0,0,0,0,0,0,0,1
+"630",2023,"No especificado","Violencia familiar",1,1,0,4,0,2,1,3,0,0,1,0,13
+"631",2023,"Región Altos Norte","Abuso sexual",3,7,4,7,4,8,5,3,6,7,3,7,64
+"632",2023,"Región Altos Norte","Acoso sexual",0,2,0,0,0,0,1,0,0,3,3,0,9
+"633",2023,"Región Altos Norte","Feminicidio",0,0,0,0,0,1,0,0,0,0,0,0,1
+"634",2023,"Región Altos Norte","Hostigamiento sexual",0,0,0,0,0,1,0,0,0,0,1,0,2
+"635",2023,"Región Altos Norte","Violación",0,0,0,2,1,0,0,0,0,2,0,0,5
+"636",2023,"Región Altos Norte","Violencia familiar",35,42,46,35,42,57,48,27,27,26,34,27,446
+"637",2023,"Región Altos Sur","Abuso sexual",2,5,7,10,8,5,4,7,3,9,5,5,70
+"638",2023,"Región Altos Sur","Acoso sexual",0,1,1,1,2,0,3,1,1,1,0,0,11
+"639",2023,"Región Altos Sur","Feminicidio",0,0,0,0,0,0,0,0,0,0,1,0,1
+"640",2023,"Región Altos Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,1,0,0,1
+"641",2023,"Región Altos Sur","Violación",1,0,0,1,1,1,2,1,1,0,1,1,10
+"642",2023,"Región Altos Sur","Violencia familiar",21,23,28,26,29,25,37,28,21,30,25,17,310
+"643",2023,"Región Centro","Abuso sexual",254,249,317,323,349,282,300,351,404,411,367,286,3893
+"644",2023,"Región Centro","Acoso sexual",22,8,28,19,30,25,25,27,19,15,20,9,247
+"645",2023,"Región Centro","Feminicidio",2,3,0,1,1,5,3,0,2,3,3,0,23
+"646",2023,"Región Centro","Hostigamiento sexual",7,6,12,7,8,6,7,7,10,11,7,12,100
+"647",2023,"Región Centro","Violación",45,35,32,40,28,54,49,44,42,32,33,36,470
+"648",2023,"Región Centro","Violencia familiar",844,993,1195,1039,1229,1306,1106,1229,1081,969,815,700,12506
+"649",2023,"Región Ciénega","Abuso sexual",8,7,9,5,9,6,7,8,1,14,9,2,85
+"650",2023,"Región Ciénega","Acoso sexual",0,1,3,0,1,2,1,0,1,1,0,0,10
+"651",2023,"Región Ciénega","Feminicidio",2,0,0,0,0,0,0,0,0,0,0,0,2
+"652",2023,"Región Ciénega","Hostigamiento sexual",0,0,0,0,0,1,0,1,0,0,0,0,2
+"653",2023,"Región Ciénega","Violación",4,2,1,3,1,1,2,0,2,0,3,1,20
+"654",2023,"Región Ciénega","Violencia familiar",41,66,67,62,77,52,66,38,53,59,50,44,675
+"655",2023,"Región Costa Sur","Abuso sexual",11,6,9,4,10,5,3,11,7,8,7,10,91
+"656",2023,"Región Costa Sur","Acoso sexual",0,1,0,0,0,0,0,1,1,0,0,0,3
+"657",2023,"Región Costa Sur","Feminicidio",0,0,0,1,1,0,0,0,0,0,0,0,2
+"658",2023,"Región Costa Sur","Hostigamiento sexual",0,0,0,0,0,0,0,0,1,0,0,0,1
+"659",2023,"Región Costa Sur","Violación",0,0,1,0,0,0,3,0,0,0,0,0,4
+"660",2023,"Región Costa Sur","Violencia familiar",12,16,11,13,12,13,22,24,22,16,16,14,191
+"661",2023,"Región Costa-Sierra Occidental","Abuso sexual",24,25,38,28,25,36,35,25,47,25,18,26,352
+"662",2023,"Región Costa-Sierra Occidental","Acoso sexual",2,1,3,4,3,0,2,3,5,1,0,0,24
+"663",2023,"Región Costa-Sierra Occidental","Feminicidio",1,0,0,0,0,0,0,0,0,0,0,0,1
+"664",2023,"Región Costa-Sierra Occidental","Hostigamiento sexual",0,0,0,0,2,1,0,2,0,0,0,0,5
+"665",2023,"Región Costa-Sierra Occidental","Violación",4,5,6,1,5,4,4,3,4,3,6,5,50
+"666",2023,"Región Costa-Sierra Occidental","Violencia familiar",60,56,75,81,67,85,81,73,96,75,62,52,863
+"667",2023,"Región Lagunas","Abuso sexual",1,9,8,4,2,7,6,7,7,5,4,3,63
+"668",2023,"Región Lagunas","Acoso sexual",0,2,0,1,0,0,1,1,0,0,2,0,7
+"669",2023,"Región Lagunas","Feminicidio",0,0,0,0,0,0,0,1,0,0,0,0,1
+"670",2023,"Región Lagunas","Hostigamiento sexual",0,0,2,0,0,0,0,1,0,0,0,0,3
+"671",2023,"Región Lagunas","Violación",1,0,0,0,0,0,1,0,0,0,0,0,2
+"672",2023,"Región Lagunas","Violencia familiar",22,25,25,20,26,27,28,22,18,12,18,23,266
+"673",2023,"Región Norte","Abuso sexual",3,1,3,0,3,1,2,0,2,4,5,1,25
+"674",2023,"Región Norte","Acoso sexual",0,0,0,1,0,0,1,0,0,1,0,0,3
+"675",2023,"Región Norte","Feminicidio",0,1,0,0,0,0,0,0,0,0,0,0,1
+"676",2023,"Región Norte","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"677",2023,"Región Norte","Violación",2,1,3,0,0,0,0,1,1,2,1,0,11
+"678",2023,"Región Norte","Violencia familiar",8,6,4,2,10,5,7,8,8,12,5,16,91
+"679",2023,"Región Sierra de Amula","Abuso sexual",2,8,6,7,3,3,8,7,10,5,9,5,73
+"680",2023,"Región Sierra de Amula","Acoso sexual",0,1,5,3,0,1,0,2,2,1,3,0,18
+"681",2023,"Región Sierra de Amula","Feminicidio",0,0,0,0,0,1,0,0,0,0,0,0,1
+"682",2023,"Región Sierra de Amula","Hostigamiento sexual",0,0,0,0,0,0,0,1,1,0,0,0,2
+"683",2023,"Región Sierra de Amula","Violación",0,0,0,0,2,0,2,0,1,3,0,1,9
+"684",2023,"Región Sierra de Amula","Violencia familiar",29,20,31,24,40,56,32,36,30,27,29,34,388
+"685",2023,"Región Sur","Abuso sexual",7,5,3,5,4,7,9,8,7,2,9,9,75
+"686",2023,"Región Sur","Acoso sexual",0,0,4,2,1,1,1,0,0,0,0,0,9
+"687",2023,"Región Sur","Feminicidio",0,0,0,1,0,0,0,0,0,0,0,0,1
+"688",2023,"Región Sur","Hostigamiento sexual",0,0,0,0,0,1,0,0,0,0,0,0,1
+"689",2023,"Región Sur","Violación",0,1,2,0,1,1,1,1,0,0,0,0,7
+"690",2023,"Región Sur","Violencia familiar",16,24,20,28,36,27,40,34,33,35,33,26,352
+"691",2023,"Región Sureste","Abuso sexual",2,4,4,3,5,3,6,1,6,2,1,8,45
+"692",2023,"Región Sureste","Acoso sexual",0,0,0,0,1,0,1,0,0,0,0,0,2
+"693",2023,"Región Sureste","Feminicidio",0,0,0,0,0,0,0,0,0,0,0,1,1
+"694",2023,"Región Sureste","Hostigamiento sexual",0,0,0,0,0,0,0,0,0,0,0,0,0
+"695",2023,"Región Sureste","Violación",1,2,2,0,0,1,0,1,0,1,1,0,9
+"696",2023,"Región Sureste","Violencia familiar",12,9,20,17,24,16,22,11,19,26,12,16,204
+"697",2023,"Región Valles","Abuso sexual",7,10,11,14,6,6,9,8,15,6,6,8,106
+"698",2023,"Región Valles","Acoso sexual",0,0,2,2,1,1,2,1,1,0,1,0,11
+"699",2023,"Región Valles","Feminicidio",0,0,0,0,0,1,0,0,0,0,0,0,1
+"700",2023,"Región Valles","Hostigamiento sexual",0,0,1,0,0,2,0,1,0,0,1,3,8
+"701",2023,"Región Valles","Violación",0,2,1,1,0,1,1,2,0,0,1,0,9
+"702",2023,"Región Valles","Violencia familiar",42,29,62,34,55,72,62,59,64,41,40,38,598
